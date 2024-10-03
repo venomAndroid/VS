@@ -1,7 +1,7 @@
 from tkinter import *
 
 tk = Tk()
-tk.title('Clicker')
+tk.title('Тап хомяк')
 tk.geometry('1000x550')
 n = 0
 

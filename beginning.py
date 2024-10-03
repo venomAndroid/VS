@@ -6,3 +6,4 @@
 # ahk.mouse_move(500, 600, speed=10, blocking=True)
 # print(ahk.mouse_position)
 
+print('Hello world!')
